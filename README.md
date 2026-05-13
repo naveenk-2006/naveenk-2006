@@ -39,19 +39,6 @@
 
 ---
 
-## 🔒 Repository Access
-
-> **All repositories are private** to protect original work and IP.
-> Recruiters and collaborators can request full access below.
-
-```
-📩  naveenkumar13796@gmail.com
-📱  8073910244
-```
-> I'll respond within 24 hours with repo access + a live demo walkthrough if needed.
-
----
-
 ## 🚀 12 Projects · Across AI · Embedded · Full-Stack · Blockchain
 
 ---
